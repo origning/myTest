@@ -14,6 +14,15 @@ TextureImporter:
   - first:
       213: 21300006
     second: enemy1-eyelid
+  - first:
+      213: -509950220758283284
+    second: char_enemy_alienSlug_0
+  - first:
+      213: -950373999780753032
+    second: char_enemy_alienSlug_1
+  - first:
+      213: -8200567452704650084
+    second: char_enemy_alienSlug_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -91,85 +100,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: enemy1-tail
+      name: char_enemy_alienSlug_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 167
-        height: 168
-      alignment: 5
-      pivot: {x: 1, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy1-body
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 0
-        width: 305
+        x: 12
+        y: 2
+        width: 459
         height: 464
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
+      spriteID: ceb029ed9fa4ce8f0800000000000000
+      internalID: -509950220758283284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy1-eye
+      name: char_enemy_alienSlug_1
       rect:
         serializedVersion: 2
-        x: 517
-        y: 303
-        width: 109
-        height: 100
+        x: 522
+        y: 305
+        width: 99
+        height: 96
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
+      spriteID: 8711d4be1e79fc2f0800000000000000
+      internalID: -950373999780753032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemy1-eyelid
+      name: char_enemy_alienSlug_2
       rect:
         serializedVersion: 2
-        x: 682
-        y: 318
-        width: 137
-        height: 136
+        x: 683
+        y: 326
+        width: 134
+        height: 105
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
+      spriteID: c9cc8e8a95bb13e80800000000000000
+      internalID: -8200567452704650084
       vertices: []
       indices: 
       edges: []
@@ -177,7 +165,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8e1c2186638c11347a2a57eef025a790
     internalID: 0
     vertices: []
     indices: 

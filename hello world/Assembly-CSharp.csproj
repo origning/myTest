@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\scrips\helloworld.cs" />
     <Compile Include="Assets\scrips\playercontrol.cs" />
+    <Compile Include="Assets\scrips\Camera.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
